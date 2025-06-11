@@ -9,6 +9,7 @@ body {
   
   h1 {
     text-align: center;
+    color: #718f4e;
   }
   
   .App {
@@ -124,7 +125,7 @@ body {
   }
   
   .popup {
-    background: white;
+    background: #718f4e;
     padding: 2rem;
     border-radius: 10px;
     text-align: center;
