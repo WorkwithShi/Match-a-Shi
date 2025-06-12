@@ -135,6 +135,9 @@ body {
   h2 {
     color: #718f4e;
   }
+  p {
+    color: #496c20;
+  }
   @keyframes popIn {
     from {
       transform: scale(0.8);
