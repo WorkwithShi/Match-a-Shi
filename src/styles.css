@@ -125,13 +125,16 @@ body {
   }
   
   .popup {
-    background: #718f4e;
+    background: #e5f7d0;
     padding: 2rem;
+    
     border-radius: 10px;
     text-align: center;
     animation: popIn 0.3s ease;
   }
-  
+  h2 {
+    color: #718f4e;
+  }
   @keyframes popIn {
     from {
       transform: scale(0.8);
